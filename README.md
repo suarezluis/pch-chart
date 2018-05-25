@@ -1,5 +1,7 @@
 # pch-chart
+"
 TL;DR: just fill my chart with ducks!
+
 Make a GitHub repo pch-chart.
 
 Run in local shell:
@@ -21,3 +23,5 @@ curl -o pattern-duck.txt https://raw.githubusercontent.com/stcruy/public-contrib
 node patternToDates.js pattern-duck.txt "<FIRST_SUNDAY_AFTER_MOST_RECENT_SATURDAY_HERE__example:>15 Mar 2015"
 ./datesToCommits.sh
 git push -u origin master
+
+"
